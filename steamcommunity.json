@@ -17,10 +17,10 @@
             "Pop-Location"
         ]
     },
-    "bin": "steamcommunity.exe",
+    "bin": "steamcommunity_302_V12.0.3.exe",
     "shortcuts": [
         [
-            "steamcommunity.exe",
+            "steamcommunity_302_V12.0.3.exe",
             "steamcommunity"
         ]
     ],
