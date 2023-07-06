@@ -1,8 +1,8 @@
-# RepoName
+# steamcommunity
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/steamcommunity
 ```
 
