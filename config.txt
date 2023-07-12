@@ -1,5 +1,5 @@
 
 PROJECT_NAME=steamcommunity
-steamcommunity_VERSION_MAJOR=1
+steamcommunity_VERSION_MAJOR=12
 steamcommunity_VERSION_MINOR=0
-steamcommunity_VERSION_PATCH=0
+steamcommunity_VERSION_PATCH=3
